@@ -1,0 +1,22 @@
+{
+  "name": "react-native-signal-agora",
+  "version": "1.0.0",
+  "description": "#### 介绍 声网信令",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tauycode/react-native-signal-agora.git"
+  },
+  "keywords": [
+    "agora"
+  ],
+  "author": "tauy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tauycode/react-native-signal-agora/issues"
+  },
+  "homepage": "https://github.com/tauycode/react-native-signal-agora#readme"
+}
