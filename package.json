@@ -1,0 +1,18 @@
+{
+  "name": "react-native-signal-agio",
+  "version": "1.0.2",
+  "description": "#### 介绍 声网信令",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/tauy/react-native-signal-agio.git"
+  },
+  "keywords": [
+    "zxnoicq"
+  ],
+  "author": "tauy",
+  "license": "ISC"
+}
